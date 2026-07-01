@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Glitch Linux
+Label: Glitch Linux Custom Repository
+Suite: stable
+Codename: glitch-custom
+Version: 1.0
+Date: Wed, 01 Jul 2026 00:25:36 UTC
+Architectures: amd64 arm64 all
+Components: main
+Description: Custom Glitch Linux tools and utilities
+MD5Sum:
+ e24e09ad71f80c3cef164026d21b47b7 5673 main/binary-all/Packages
+ 2fc546805308bbce3c9d4608569c8e5f 2473 main/binary-all/Packages.gz
+SHA1:
+ e78f77258f86568e1f6fdc7174b7f1cbe6519abe 5673 main/binary-all/Packages
+ 813a3cd45498708d57b398ff7cb18e6dd81190b7 2473 main/binary-all/Packages.gz
+SHA256:
+ 289058ecd3a34b45859e565f22c8d029d0f5800cb5269692525d4b36eebacd9a 5673 main/binary-all/Packages
+ c1af22a49cd7d8744a2130971fdb69adab07ef0e783213a8db52bcaccce5913a 2473 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEW9hadtK0PCDB3eItOVeqb0u+KZwFAmpEXoAVHHJlcG9AZ2xp
+dGNobGludXguY29tAAoJEDlXqm9Lvimc7PUP/3NcKiLqvabHy8Bs6TVtEuuGcnP5
+qqxNAkQ8MekUkslFynTZhtGF5dwwuCNH+oG5kvsTkPKey7qiZ+AbkuVQV3IvI6kG
+sIKZQ+2JFB+/LwFhdWNfLeWuNoViJus/2ELGqqp4AQCjVIGhOfny1ZYQiy4Zg3x4
+u/Ez1u8fszxC5ufxfKzHZqH4et5q70ctw+td1UAi7mlyxRy0+RJlYb8MlPMd4VZP
+DOQzm0VtF6ZZ52CRQcPFOxW7VpX3Z6uG9kJOmnIlWL1Y9fgrwkrMg5LDck017vOT
+BXhQIGRxv4cpScK09rw/wZpvfxcqUlYLf1w87MXCjkIRd8RT0ZSG5ReHy4UPXDM0
+O9PJHpBenTkPnUHMBAHTJ944KtEJ8Q8BYrNOGhScI+DrlUmDEoLWd7Uijd04Oomd
++5llGKlfv6yv9ekWJJBsP5K0/sOrMbS7/IoRWIHQf5KDB2ptrL0KFJcDK6yIFokQ
+MS71pJV975iHtSkGv/othZWLJYSnIG5lqhx9Kd2HEqxOqU+iuDekqVtWT9g/oOXD
+2w1Ku2IeEX6a8+t4qS15EU4MzZK+LTN+UTU5FO+9JKORxGx3OlnEQraovg5ybvir
+nHbdymKj8/3dZ6byDdyGgdIzNd8/bFlCCAGWSAX7Onz63EjO2vSaOWKSZPBI+7i2
+DcbXoHKiCjpzVOcw
+=4Tkb
+-----END PGP SIGNATURE-----

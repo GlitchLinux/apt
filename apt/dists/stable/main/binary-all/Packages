@@ -1,0 +1,143 @@
+Package: bulk
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: imagemagick, optipng, curl, bc
+Filename: pool/main/bulk_1.0_all.deb
+Size: 8488
+MD5sum: 6e84303d315a13cb5e2b3f661577d4e6
+SHA1: db66f48d458326c70ae9e915e8562cee612d3f60
+SHA256: 59222e4ea1a329adc79205c44862fce32b1a07c7adde9930d2acd1c781904ce7
+Description: Bulk image conversion and optimization tool
+
+Package: calamares-glitch-config
+Version: 13.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: calamares, calamares-settings-debian
+Filename: pool/main/calamares-glitch-config_13.0_all.deb
+Size: 900492
+MD5sum: 54d947b7ef93a6b557d3e9cbd7087c18
+SHA1: b99ece371c98dbfa311f6b38c55aa5f4fed83dcc
+SHA256: 676b53e0f79cb0a131160c4b70c9ebf6e063f96ad050f8a3928c25a9eba31cb9
+Description: Glitch Linux custom Calamares configuration
+ This package provides Glitch Linux customized configuration files for Calamares
+ installer. It replaces the default Debian Calamares settings with Glitch-optimized
+ partitioning, bootloader, and UI settings.
+
+Package: gfetch
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: bash, git, lolcat
+Filename: pool/main/gfetch_1.0_all.deb
+Size: 2160
+MD5sum: a0d3e9655761101ec239bc9d4cf5264f
+SHA1: 8c88b6cb9d88e7b761b95a4ff9d17d783ba1282b
+SHA256: a0b9dd27cd12533934149a20a4286bbe1cd36627da89aa22a2c01f62a4b31e25
+Description: System info display utility
+
+Package: glitch-persistence
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: python3, python3-pyqt5, util-linux, e2fsprogs, parted, grub2-common, cryptsetup
+Filename: pool/main/glitch-persistence_1.0_all.deb
+Size: 15448
+MD5sum: ba2f274f3042172aef1f5e7b5aa7e77d
+SHA1: 4691e543a43a96945e766561196f96bfd28d65a9
+SHA256: d9c3bff8d25879c3bcb1b4aad6fbdbb57002143796c1515e42d74d1970f43f8e
+Description: Glitch Linux live boot persistence setup utility
+
+Package: glitchinstall
+Version: 1.0-amd64
+Architecture: amd64
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: python3, python3-tk, util-linux, e2fsprogs, parted, grub2-common, dosfstools, mtools, efibootmgr, cryptsetup, cryptsetup-initramfs, lvm2, dmsetup
+Filename: pool/main/glitchinstall-1.0.deb
+Size: 121568
+MD5sum: 4b5114ba893fc8d94f7963618d1738ec
+SHA1: a52b9e0d1ba19ce8a42836a71d973c889b83c045
+SHA256: c8407acc4eb07b499d0547ad79e44bbb432c2528d869b59f0b934c990694263d
+Homepage: https://github.com/GlitchLinux/Glitch-Installer
+Description: System Installer for gLiTcH Linux
+ Glitch Installer is a PyQt5-based graphical installer for deploying gLiTcH Linux
+ and other Debian-based systems to disk. It provides partition management, bootloader
+ installation, LUKS encryption support, and full system setup.
+
+Package: path
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: bash
+Filename: pool/main/path_1.0_all.deb
+Size: 1508
+MD5sum: 8bc17ab5835942d2f29acc5c5c1d5dd4
+SHA1: 39e59dd0c7075381f154981492aca8c589e86582
+SHA256: a1843efffc06cd6d8a3f098b215d29b804fad5a4310b5c133bb463f9fb353aca
+Description: PATH utility - directory traversal tool
+
+Package: qemu-quickboot
+Version: 1.5
+Architecture: all
+Maintainer: GLITCH LINUX <info@glitchlinux.com>
+Installed-Size: 128
+Depends: bash (>= 4.0), qemu-system-x86 | qemu-system-arm, qemu-utils, qemu-system-gui, ovmf | qemu-efi-aarch64, yad, socat, usbutils, util-linux
+Recommends: xclip | wl-clipboard | xsel, x11-utils
+Filename: pool/main/qemu-quickboot-v1.5-1_all.deb
+Size: 24652
+MD5sum: 2a44fa4e95510adfd6054aa9e5b07591
+SHA1: d64bdbe5d205f56447a8683520a95e27896cc095
+SHA256: 631a18faf5ca02cb2707a0131fdcbcb4c6b98bd37fa2f8b95f871dc35a84d22f
+Section: utils
+Priority: optional
+Homepage: https://github.com/GlitchLinux/QEMU-QuickBoot
+Description: YAD-based GUI for rapid QEMU virtual machine deployment
+ QEMU-QuickBoot launches QEMU virtual machines from physical devices,
+ disk images, or ISO files via a small set of yad dialogs. Includes
+ a companion VM Session Settings panel for live USB hotplug, network
+ reconfiguration, storage hotplug, and VM power control over the
+ QEMU monitor socket.
+ .
+ Supports BIOS and UEFI boot with autodetected OVMF firmware.
+
+Package: remasterglitch
+Version: 1.0-amd64
+Architecture: amd64
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: python3, python3-tk, xorriso, squashfs-tools, cpio, lzma, curl, rsync, grub-efi-amd64-bin, grub2-common, mtools, dosfstools, util-linux
+Filename: pool/main/remasterglitch-1.0.deb
+Size: 15011520
+MD5sum: 7ef0ec90c355367f7c1195bd9565a3c8
+SHA1: 8ca2626ceb5fd022cfbeef47aedd811698e8ddae
+SHA256: 62025bb77f9b28fba436ab6381d3328a2a3061084ff28487e30b6bee49173b9c
+Homepage: https://github.com/GlitchLinux/RemasterGlitch
+Description: Live System Builder
+ RemasterGlitch is a PyQt5-based utility for building custom live ISO images
+ from your running Debian/Ubuntu system. This package includes bundled ISO
+ build files and all required dependencies for immediate use.
+
+Package: size
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: bash
+Filename: pool/main/size_1.0_all.deb
+Size: 3312
+MD5sum: 3e50372a888845e063ea3e96b10a9805
+SHA1: 05642518a0c5f2479688adf80f977d89b146f2c3
+SHA256: a1f8cdf62caea00e85736e539c7b207139109d3388f5fb2868991b5b210f79d5
+Description: size utility - file and directory size analyzer
+
+Package: vdl
+Version: 1.0
+Architecture: all
+Maintainer: Marcus <marcus@glitchlinux.com>
+Depends: python3, python3-urllib3
+Filename: pool/main/vdl_1.0_all.deb
+Size: 3880
+MD5sum: 36dd7fba48e21383c24d41e842b7c648
+SHA1: a13ba95dd7798d4f2dc5935814514bed0b4b6914
+SHA256: 1dde17700eb70456dc8ce938969de856d00f02d5757324f64607f798d77c9f56
+Description: Video downloader with playlist support
+
