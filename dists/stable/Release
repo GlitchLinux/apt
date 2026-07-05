@@ -6,10 +6,10 @@ Codename: glitch-custom
 Architectures: amd64 arm64 all
 Components: main
 Description: Custom Glitch Linux tools and utilities
-Date: Sun, 05 Jul 2026 10:08:06 UTC
+Date: Sun, 05 Jul 2026 10:29:05 UTC
 MD5Sum:
- 6c6feb29a16d6db199f9921bffe73043 5829 main/binary-all/Packages
- a08df4a2b31e149cef81a11007114617 2582 main/binary-all/Packages.gz
+ 83f168f76aef4fd932b2c8bd73986c08 6059 main/binary-all/Packages
+ ffe41f66663a071ba43d092f0b52c6ce 2663 main/binary-all/Packages.gz
 SHA256:
- 8598eedfebad4b136f26b127f404a331b3a15c8514f0f6c272b4944f743205b1 5829 main/binary-all/Packages
- be3b5972b457bf00f54ae1cbd064591a7a494f378e5dae92bd7915e528a3ee65 2582 main/binary-all/Packages.gz
+ cde814a82d9fb7ea23d790b50bc75cf36c8ef9e29d63ba56975e5341fca96881 6059 main/binary-all/Packages
+ 8b676b44ba2d72cfe6909fecb962a32a8e3c54311b0cbc29ef9c267257b6ba15 2663 main/binary-all/Packages.gz

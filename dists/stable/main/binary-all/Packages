@@ -59,16 +59,22 @@ SHA256: a0b9dd27cd12533934149a20a4286bbe1cd36627da89aa22a2c01f62a4b31e25
 Description: System info display utility
 
 Package: glitch-persistence
-Version: 1.0
+Version: 2.0-1
 Architecture: all
-Maintainer: Marcus <marcus@glitchlinux.com>
-Depends: python3, python3-pyqt5, util-linux, e2fsprogs, parted, grub2-common, cryptsetup
-Filename: pool/main/glitch-persistence_1.0_all.deb
-Size: 15448
-MD5sum: ba2f274f3042172aef1f5e7b5aa7e77d
-SHA1: 4691e543a43a96945e766561196f96bfd28d65a9
-SHA256: d9c3bff8d25879c3bcb1b4aad6fbdbb57002143796c1515e42d74d1970f43f8e
-Description: Glitch Linux live boot persistence setup utility
+Maintainer: GlitchLinux <admin@glitchlinux.com>
+Depends: python3, python3-pyqt5, sudo, util-linux, e2fsprogs, cryptsetup
+Filename: pool/main/glitch-persistence_2.0-1_all.deb
+Size: 22064
+MD5sum: 75be540667b5b5f992173b7ae02ba343
+SHA1: 98384909dbc94d49c594f44c9651b1991b62047a
+SHA256: 0595fe08d1715e834d0bf73f261ac8cb824e7097973dd17eb4739eaa933fdac2
+Section: admin
+Priority: optional
+Homepage: https://glitchlinux.com
+Description: Glitch Linux Live Boot Persistence Utility (PyQt5)
+ PyQt5 GUI tool for creating and managing persistence on
+ Glitch Linux live boot media. Supports LUKS-encrypted and
+ plain ext4 persistence partitions and loop images.
 
 Package: glitchinstall
 Version: 2.0-1
