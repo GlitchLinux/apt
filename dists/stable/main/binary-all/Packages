@@ -59,15 +59,15 @@ SHA256: a0b9dd27cd12533934149a20a4286bbe1cd36627da89aa22a2c01f62a4b31e25
 Description: System info display utility
 
 Package: glitch-persistence
-Version: 2.0-1
+Version: 2.0-2
 Architecture: all
 Maintainer: GlitchLinux <admin@glitchlinux.com>
 Depends: python3, python3-pyqt5, sudo, util-linux, e2fsprogs, cryptsetup
-Filename: pool/main/glitch-persistence_2.0-1_all.deb
-Size: 22064
-MD5sum: 75be540667b5b5f992173b7ae02ba343
-SHA1: 98384909dbc94d49c594f44c9651b1991b62047a
-SHA256: 0595fe08d1715e834d0bf73f261ac8cb824e7097973dd17eb4739eaa933fdac2
+Filename: pool/main/glitch-persistence_2.0-2_all.deb
+Size: 22068
+MD5sum: 4ee0a74fd351b11c282961195138e724
+SHA1: d333f960a52c698146604c4941c990fe43ef56aa
+SHA256: 97e680a26089c752b9b19d0eaae02e73cbd6bf7e879417c6a1034e49aff1c602
 Section: admin
 Priority: optional
 Homepage: https://glitchlinux.com

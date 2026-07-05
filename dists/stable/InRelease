@@ -9,26 +9,26 @@ Codename: glitch-custom
 Architectures: amd64 arm64 all
 Components: main
 Description: Custom Glitch Linux tools and utilities
-Date: Sun, 05 Jul 2026 10:29:05 UTC
+Date: Sun, 05 Jul 2026 10:42:35 UTC
 MD5Sum:
- 83f168f76aef4fd932b2c8bd73986c08 6059 main/binary-all/Packages
- ffe41f66663a071ba43d092f0b52c6ce 2663 main/binary-all/Packages.gz
+ 9e9d88b1998726048523c2c9e796fe64 6059 main/binary-all/Packages
+ 8ff99f1173f8f285610ab91c1f3e6fd9 2664 main/binary-all/Packages.gz
 SHA256:
- cde814a82d9fb7ea23d790b50bc75cf36c8ef9e29d63ba56975e5341fca96881 6059 main/binary-all/Packages
- 8b676b44ba2d72cfe6909fecb962a32a8e3c54311b0cbc29ef9c267257b6ba15 2663 main/binary-all/Packages.gz
+ ec16be96831c3c22535761c156a470e1d42833d9525cfa6539766bb1a2d21be1 6059 main/binary-all/Packages
+ 2b6abbec306283f4ba93bed5fb5195ad83f3948c6c54e6e09101d3053163378b 2664 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEW9hadtK0PCDB3eItOVeqb0u+KZwFAmpKMfEACgkQOVeqb0u+
-KZxG/A//T/HQPKday+BQz2WbOnksUM96AMdt6yCQk/vKweAXUDHqQe0fBPBCrLHN
-SmmL/+pRAhnkZwEcR50W9x7Gsg/a7uMyjuMHeSDdoxkAKvf5DowzTKHzNtMf9aRZ
-toMrE/xNl+7p7oDQxGN+O4c1mBQuM/H2YjlMENWdi4XPLa3c5zmgS0pCQahJOc41
-B/ysZtAFBb/XT1lIVJSiIUaQO1uiEeexREtHJYIpU/ygC4E+RqFAKFSj3OO6xVGh
-+UINhQkD9TBohhUtwwzA1hS/ibFvXJgbynI1aEMJEynMI1CxZV+4lEuS8fPURqY9
-GdbE2/IY28aIeUEdKRW1MN70OkXJlzZlvJ/rsVCekx5PyfWSZpeCWAc38b/OSNyu
-SVbf30b6v60F4Al9ik1qPUYmrdcF5pVdXnF5zXL7QAjs/09+Z8DZz7krksWNlSF+
-TbvFi41LKfMTCunJrLtyGTWdfi+v9c746/SO3lzGyd7igS6A+L/pegyHKHq12TZa
-69eehKuke9X/9VGeFvMNiQwPswZg4g3UCgDMeuznjR6rlq6RZAHlGSi5avYSEYvF
-pCW5t4kyPHCWYjpU4p1fQfqcPR6x8YQuTtg/8ZE+So2kKErYBUOsL3HodzVfhWZl
-N6yeXRBgQau/DCwkJt0GMvFU/9W+64kEatYFPNCEPp0B/6L8BI8=
-=Tkoq
+iQIzBAEBCgAdFiEEW9hadtK0PCDB3eItOVeqb0u+KZwFAmpKNRsACgkQOVeqb0u+
+KZwZiw//acDju59V5M47iCQlOatwA/ddDQdZbuP06xn5cZzEkrjkadYuITawgPxT
+0eftwCalAkNMF/X4J4foE0EsfAsHuivCT/ABbu4SuT5n9cRGQbMRmXomsZkjsI/y
+FIGPDdRpoUpW/kG/WIXPMEtfkyq3g3dKGFPyStuyO4GptTx7lX4972ksyMJ1cDCb
+vkxXWEJqyOmDJz33DAk5CPOG4mKdcIIszH+mcK2icPKZKOvW/ziJ/mN8wdInQZXs
+E6Ikw2PwlRR0q0tCs5BtG74IKwPqA7niYi0VVXNMVb+04wauVyIdqGF1TBlIqCV3
+YI8QUBuKkHYsKtgkS/yztf2giziBkJ+IK3Oj05atsGOu8G/DevzP3ss4qiTH2UzO
+NKE2rtdGnGqEsXij4yhaPageCoFUanuYt5tzJn+dTghucEGogLzzY31d0uZ4/fSP
+O8yj6PfDEm9wi7HWBFJfRATUWJXMpcmxqiLEKuoGFxfWLsKIIJGdG6HHQ9yj1xLY
+HL/5nVyfpaUeBrf8wAvEMZoxO24weyWHD9ArC7UWGDOBeLIPZz7aOPMFCRIuqR/A
+RZBRDFtSWKPLXaecZUJJdogeFzjQTtBjmdgAzeT47a4gWTpXO9afYBhJZgGEtPSK
+lZ+E0/upZL0Y4GsKxdCbGL/ebLBStSiXwxaVdQIbWN+SWlf6v9E=
+=aMKB
 -----END PGP SIGNATURE-----
