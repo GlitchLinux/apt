@@ -1,21 +1,15 @@
-Architectures: amd64 arm64 all
-Codename: glitch-custom
-Components: main
-Date: Sun, 05 Jul 2026 02:58:08 +0000
-Description: Custom Glitch Linux tools and utilities
-Label: Glitch Linux Custom Repository
 Origin: Glitch Linux
+Label: Glitch Linux Custom Repository
 Suite: stable
 Version: 1.0
+Codename: glitch-custom
+Architectures: amd64 arm64 all
+Components: main
+Description: Custom Glitch Linux tools and utilities
+Date: Sun, 05 Jul 2026 10:08:06 UTC
 MD5Sum:
- 56c2c839c59f907cfe030f36698b4470             7997 main/binary-all/Packages
- 59a98f723c3caa4bd51d7cfabf6a6afd             3718 main/binary-all/Packages.gz
-SHA1:
- 7ee2ec37151b2322ebe1c2b498cf97d9928d0c6a             7997 main/binary-all/Packages
- 2496d25762e68326855d0cf477acf3c2c6a19134             3718 main/binary-all/Packages.gz
+ 6c6feb29a16d6db199f9921bffe73043 5829 main/binary-all/Packages
+ a08df4a2b31e149cef81a11007114617 2582 main/binary-all/Packages.gz
 SHA256:
- f0da92366d25f07f126bc417de30bd0a3f39b8c4b16e35ef64d8428f5dbbe2f2             7997 main/binary-all/Packages
- 3d3fbd85d44380458ec4e2b09b31758755f7c2c3b822a45c0f42454a819b32da             3718 main/binary-all/Packages.gz
-SHA512:
- 82238114b6806caac60d3afb53230b02fe9b17005578eb668591dabeb6981717e2b343b5a8a976c5b44b24ce36ea76b1642d665af8676bc02e2f789f537b2278             7997 main/binary-all/Packages
- 03113d873e82e855608e34bc901c5d1d1b7d3b25ecae52e781483e236c24974a936159bdbcd8c9cb3645e178504d11d52939179ac24fed23204380eb0ea09684             3718 main/binary-all/Packages.gz
+ 8598eedfebad4b136f26b127f404a331b3a15c8514f0f6c272b4944f743205b1 5829 main/binary-all/Packages
+ be3b5972b457bf00f54ae1cbd064591a7a494f378e5dae92bd7915e528a3ee65 2582 main/binary-all/Packages.gz
