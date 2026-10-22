@@ -1,34 +1,40 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: Glitch Linux
+Architectures: amd64 arm64 all
+Codename: glitch-custom
+Components: main
+Date: Thu, 22 Oct 2026 06:39:04 +0000
+Description: Custom Glitch Linux tools and utilities
 Label: Glitch Linux Custom Repository
+Origin: Glitch Linux
 Suite: stable
 Version: 1.0
-Codename: glitch-custom
-Architectures: amd64 arm64 all
-Components: main
-Description: Custom Glitch Linux tools and utilities
-Date: Sun, 05 Jul 2026 10:42:35 UTC
 MD5Sum:
- 9e9d88b1998726048523c2c9e796fe64 6059 main/binary-all/Packages
- 8ff99f1173f8f285610ab91c1f3e6fd9 2664 main/binary-all/Packages.gz
+ dface42e2467680e476329da1e7f6716             7285 main/binary-all/Packages
+ fbe223ba9147f17d727147ce917fb81b             3202 main/binary-all/Packages.gz
+SHA1:
+ 0c8ee69529e2126d43f20529cc2f2fa27a0171f6             7285 main/binary-all/Packages
+ 10c9d5e4e38b38106b770b888a64be7422fbb88a             3202 main/binary-all/Packages.gz
 SHA256:
- ec16be96831c3c22535761c156a470e1d42833d9525cfa6539766bb1a2d21be1 6059 main/binary-all/Packages
- 2b6abbec306283f4ba93bed5fb5195ad83f3948c6c54e6e09101d3053163378b 2664 main/binary-all/Packages.gz
+ c3a864f71211c27bd6138d659fd9b1cdb2656d66bb5aa5050bef287597f041aa             7285 main/binary-all/Packages
+ 786df28c4bbc29d97b269d00e4b9d0635443d885856c06bf4db3eb272794444f             3202 main/binary-all/Packages.gz
+SHA512:
+ 91ea6dfeb3271d44331bb5d350d96f429634dc943d782c8dacbed04895b52c0fadc4d96e0d47a5c4ee31ca4638e8a2774ccd63157ca909f6d09a23c8b06b9f98             7285 main/binary-all/Packages
+ afe6fd9505c00c5267a3d8e40e45373e80fdf28b3b76353e897dd6de56332780ee9b9a1f6cb8bcc7a58db748b913f7c997df367648fcbc4bc35409722dfa27d8             3202 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEW9hadtK0PCDB3eItOVeqb0u+KZwFAmpKNRsACgkQOVeqb0u+
-KZwZiw//acDju59V5M47iCQlOatwA/ddDQdZbuP06xn5cZzEkrjkadYuITawgPxT
-0eftwCalAkNMF/X4J4foE0EsfAsHuivCT/ABbu4SuT5n9cRGQbMRmXomsZkjsI/y
-FIGPDdRpoUpW/kG/WIXPMEtfkyq3g3dKGFPyStuyO4GptTx7lX4972ksyMJ1cDCb
-vkxXWEJqyOmDJz33DAk5CPOG4mKdcIIszH+mcK2icPKZKOvW/ziJ/mN8wdInQZXs
-E6Ikw2PwlRR0q0tCs5BtG74IKwPqA7niYi0VVXNMVb+04wauVyIdqGF1TBlIqCV3
-YI8QUBuKkHYsKtgkS/yztf2giziBkJ+IK3Oj05atsGOu8G/DevzP3ss4qiTH2UzO
-NKE2rtdGnGqEsXij4yhaPageCoFUanuYt5tzJn+dTghucEGogLzzY31d0uZ4/fSP
-O8yj6PfDEm9wi7HWBFJfRATUWJXMpcmxqiLEKuoGFxfWLsKIIJGdG6HHQ9yj1xLY
-HL/5nVyfpaUeBrf8wAvEMZoxO24weyWHD9ArC7UWGDOBeLIPZz7aOPMFCRIuqR/A
-RZBRDFtSWKPLXaecZUJJdogeFzjQTtBjmdgAzeT47a4gWTpXO9afYBhJZgGEtPSK
-lZ+E0/upZL0Y4GsKxdCbGL/ebLBStSiXwxaVdQIbWN+SWlf6v9E=
-=aMKB
+iQIzBAEBCgAdFiEEW9hadtK0PCDB3eItOVeqb0u+KZwFAmrZr4gACgkQOVeqb0u+
+KZzR2A//YJa1WG+5PdlTVryDjOddMMvsbbgt6QMJrSJagQ18g9DnWJqSx8HsMHcn
+vuWvLJlT0oL0phDPDcqbcoIaZVqn4xEBx34IHFh19gmcKilN6xclCFCGzT49zusJ
+4i+LMhTyN8bgvsbeITmnhSsBkrWG+4HA9NqPmlTce1Jv9fW7aChoZ3R1U/Z/976Z
+P2y/RJuCAz0VdDBcAF9KlzYNqK/EvrALVnlqjeF6MTC8G2ycV2quFbJa93GmOJrz
+W18hR2ePBoFLTTs76uAEpTUtYXQlbUhO2qs8rH2w60dBbdRC8Eulk2AbP2rNdg/B
+zWz4FC7CRkCRK0UYB7399UgDHntBMoAP8c6vj5mt0UPDamP4D9MRBXSxCcJSsf2K
+6dz1Y3i/nUZtlsyFhNwYySg1aeYlj7qpQCmXkXIpIh3DC95118EOwryic3AJ5RkX
+cPNBJxsLHHzjWOJKSwgYepmr3yCrRWKRv+szg5vwmUCwO71O2t4U7qDMOnhMycfY
+wTadawW6sDFYuZNcjs2W9WRsdqZZ0e8LfoTblO5vp6UX9x0sP7cY+28W/IKMoSVm
++xVf7XIVVIlRoUFutYe3z3rN6RkTE2p350qTlDw/Sf2JNNtR++MUdxqGsQTi/3CX
+PePJ0d5+eQ9BIjRI4UxO/HwhbpnxyZEc86rTZQ613S82WkkFMuk=
+=CV8k
 -----END PGP SIGNATURE-----

@@ -157,3 +157,26 @@ SHA1: a13ba95dd7798d4f2dc5935814514bed0b4b6914
 SHA256: 1dde17700eb70456dc8ce938969de856d00f02d5757324f64607f798d77c9f56
 Description: Video downloader with playlist support
 
+Package: cryptocloud
+Version: 0.1~beta1
+Architecture: all
+Maintainer: Glitch Linux Repository <repo@glitchlinux.com>
+Installed-Size: 440
+Depends: gocryptfs, fuse3, cryptsetup, e2fsprogs, util-linux, sudo, curl, ca-certificates, systemd, python3 (>= 3.9), python3-venv, python3-pip, apache2, ffmpeg, imagemagick, python3-pyqt5, python3-requests, fonts-noto-color-emoji, pkexec | policykit-1
+Recommends: certbot, python3-certbot-apache
+Filename: pool/main/cryptocloud-beta-v0.1-all.deb
+Size: 104412
+MD5sum: 24742bdcb9fbf279653970c710529041
+SHA1: 63c0787552a103669d9fa00d7a44e39e362303bb
+SHA256: 3dff2453f0b097562294ce271c9e80e4cceeeb2bab2ec58ed8b87e68c223fd80
+Section: utils
+Priority: optional
+Homepage: https://cryptocloud.space
+Description: encrypted media vaults with web and desktop app (beta)
+ CryptoCloud stores photos, videos and files in individual LUKS2 vault
+ images inside a gocryptfs master storage. It provides a mobile-friendly
+ web app and a PyQt5 desktop app with a first-run wizard for offline use
+ (local folder, external disk or loop device, reachable at
+ http://cryptocloud.localhost) or as a web server backend under /var/www.
+ .
+ Start "CryptoCloud" from the menu after installing to run the setup wizard.
